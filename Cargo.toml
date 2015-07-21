@@ -1,0 +1,4 @@
+[package]
+name = "rusty-tic-tac-toe"
+version = "0.1.0"
+authors = ["Eric Ye <me@ericye16.com>"]
